@@ -1,2 +1,5 @@
 [compat]
 julia = "1.5.2"
+
+[deps]
+CSV = "0.7.7"
